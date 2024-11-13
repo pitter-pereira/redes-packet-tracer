@@ -2,7 +2,7 @@
 
 Este repositório é composto de alguns materiais criados durante meus estudos sobre redes de computadores, onde aprendi a utilizar o programa Cisco Packet Tracer.
 
-Para executar os projetos `.pkt` contidos neste repositório, é necessário [baixar o programa Packet Tracer](https://www.netacad.com/articles/news/download-cisco-packet-tracer).
+Para executar os projetos `.pkt` contidos neste repositório, é necessário [baixar o programa Packet Tracer](https://www.netacad.com/articles/news/download-cisco-packet-tracer) e logar na Cisco Networking Academy.
 
 ---
 

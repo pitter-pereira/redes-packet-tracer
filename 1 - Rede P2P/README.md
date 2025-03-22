@@ -4,6 +4,8 @@ Uma rede peer-to-peer (P2P) local é uma rede em que dispositivos (ou "nós") se
 
 Em uma rede P2P, cada dispositivo age como cliente e servidor ao mesmo tempo, trocando dados e serviços com outros dispositivos na rede.
 
+![image](https://github.com/user-attachments/assets/ba3d39dd-e7c0-4782-a20d-432df0c039b6)
+
 ## Configuração da rede
 
 Neste caso, a rede é composta apenas por 2 computadores, ligados por um cabo cross-over.

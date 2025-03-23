@@ -22,6 +22,6 @@ Neste caso, a rede é composta por 3 dispositivos, conectados via wireless a um 
 
 A rede é /24, e os aparelhos foram setados com os seguintes endereços:
 
-PC0 = 192.168.0.2
-Laptop0 = 192.168.0.3
-Smartphone0 = 192.168.0.4
+ - PC0 = 192.168.0.2
+ - Laptop0 = 192.168.0.3
+ - Smartphone0 = 192.168.0.4

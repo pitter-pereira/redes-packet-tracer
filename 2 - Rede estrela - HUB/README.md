@@ -8,6 +8,8 @@ O hub não distingue o destinatário dos dados, resultando em tráfego desnecess
 
 Desta forma, é cada vez mais raro ver uma rede que ainda utiliza hub.
 
+![hub-live](https://github.com/user-attachments/assets/996d810d-ccc3-46f4-8f47-7229e2efed7d)
+
 ## Configuração da rede
 
 Neste caso, a rede é composta apenas por 2 computadores, ligados por um cabo cross-over.

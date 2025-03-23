@@ -18,9 +18,10 @@ Existem diferentes tipos de AP, como os autônomos, que funcionam de forma indep
 
 ## Configuração da rede
 
-Neste caso, a rede é composta apenas por um access point, ligados por cabo cross-over.
+Neste caso, a rede é composta por 3 dispositivos, conectados via wireless a um access point sem autenticação ativada.
 
-A rede é /24, e os computadores foram setados com os seguintes endereços:
+A rede é /24, e os aparelhos foram setados com os seguintes endereços:
 
-PC0 = 192.168.0.1
-PC1 = 192.168.0.2
+PC0 = 192.168.0.2
+Laptop0 = 192.168.0.3
+Smartphone0 = 192.168.0.4

@@ -18,4 +18,9 @@ Existem diferentes tipos de AP, como os autônomos, que funcionam de forma indep
 
 ## Configuração da rede
 
-Neste caso, a rede é composta apenas por 
+Neste caso, a rede é composta apenas por um access point, ligados por cabo cross-over.
+
+A rede é /24, e os computadores foram setados com os seguintes endereços:
+
+PC0 = 192.168.0.1
+PC1 = 192.168.0.2

@@ -19,5 +19,5 @@ O cabo cross-over é projetado para conectar diretamente dispositivos da mesma c
 
 A rede é /24, e os computadores foram setados com os seguintes endereços:
 
-- PC0 = 192.168.0.1
-- PC1 = 192.168.0.2
+- PC0 = 192.168.0.2
+- PC1 = 192.168.0.3

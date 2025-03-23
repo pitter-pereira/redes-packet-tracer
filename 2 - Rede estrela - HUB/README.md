@@ -12,16 +12,11 @@ Desta forma, é cada vez mais raro ver uma rede que ainda utiliza hub.
 
 ## Configuração da rede
 
-Neste caso, a rede é composta apenas por 2 computadores, ligados por um cabo cross-over.
-
-O cabo cross-over é projetado para conectar diretamente dispositivos da mesma categoria, como:
-
-- Computador a computador;
-- Switch a switch;
-- Roteador a roteador;
-- Etc.
+Neste caso, a rede é composta apenas por 4 computadores, ligados a um hub central via cabos cross-over.
 
 A rede é /24, e os computadores foram setados com os seguintes endereços:
 
-- PC0 = 192.168.0.1
-- PC1 = 192.168.0.2
+- PC0 = 192.168.0.2
+- PC1 = 192.168.0.3
+- PC2 = 192.168.0.4
+- PC3 = 192.168.0.5

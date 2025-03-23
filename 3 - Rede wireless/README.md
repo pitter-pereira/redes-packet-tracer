@@ -16,6 +16,8 @@ Existem diferentes tipos de AP, como os autônomos, que funcionam de forma indep
 
 ![ap-live](https://github.com/user-attachments/assets/b248068b-baae-460c-afbe-cf70beaf4577)
 
+Em geral, as redes wireless são menos seguras e menos rápidas do que as conexões via cabo, ganhando pontos pela praticidade e mobilidade da conexão.
+
 ## Configuração da rede
 
 Neste caso, a rede é composta por 3 dispositivos, conectados via wireless a um access point sem autenticação ativada.

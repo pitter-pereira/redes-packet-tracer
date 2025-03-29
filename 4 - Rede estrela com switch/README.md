@@ -7,10 +7,10 @@ Diferente dos hubs, que simplesmente retransmitem dados para todos os dispositiv
 
 Características dos Switches:
 
- - Comutação Inteligente: Encaminha pacotes apenas para o dispositivo de destino, melhorando o desempenho da rede.
- - Aprendizado de Endereços MAC: Mantém uma tabela interna com os endereços MAC dos dispositivos conectados, agilizando a comunicação.
- - Capacidade de Full Duplex: Permite a transmissão e recepção simultânea de dados, eliminando colisões.
- - Gerenciáveis e Não Gerenciáveis: Os switches gerenciáveis oferecem configuração e monitoramento avançado, enquanto os não gerenciáveis funcionam de forma automática.
+ - Comutação inteligente: Encaminha pacotes apenas para o dispositivo de destino, melhorando o desempenho da rede.
+ - Aprendizado de endereços MAC: Mantém uma tabela interna com os endereços MAC dos dispositivos conectados, agilizando a comunicação.
+ - Capacidade de full duplex: Permite a transmissão e recepção simultânea de dados, eliminando colisões.
+ - Gerenciáveis e não gerenciáveis: Os switches gerenciáveis oferecem configuração e monitoramento avançado, enquanto os não gerenciáveis funcionam de forma automática.
 
 Vantagens:
  - Melhora no desempenho: A comunicação direcionada reduz congestionamentos e aumenta a velocidade da rede.

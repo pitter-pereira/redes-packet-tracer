@@ -29,7 +29,7 @@ Seu uso é essencial para redes que demandam alto desempenho e gerenciamento de 
 
 ## Configuração da rede
 
-Neste caso, a rede é composta por 5 dispositivos, conectados via cabo de rede direto (straight-through) a um switch central, que possui configurações padrão, sem autenticação ativada.
+Neste caso, a rede é composta por 5 dispositivos, conectados via cabo de rede direto (straight-through) a um switch central, que possui configurações padrão.
 
 A rede é /24, e os aparelhos foram setados com os seguintes endereços:
 

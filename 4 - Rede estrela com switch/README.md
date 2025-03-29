@@ -13,15 +13,15 @@ Características dos Switches:
  - Gerenciáveis e Não Gerenciáveis: Os switches gerenciáveis oferecem configuração e monitoramento avançado, enquanto os não gerenciáveis funcionam de forma automática.
 
 Vantagens:
- - Melhora no Desempenho: A comunicação direcionada reduz congestionamentos e aumenta a velocidade da rede.
- - Segurança Aprimorada: Em switches gerenciáveis, é possível configurar VLANs, restringindo o acesso entre dispositivos.
- - Menor Colisão de Pacotes: Como cada dispositivo recebe pacotes apenas quando necessário, há menor chance de colisões.
+ - Melhora no desempenho: A comunicação direcionada reduz congestionamentos e aumenta a velocidade da rede.
+ - Segurança aprimorada: Em switches gerenciáveis, é possível configurar VLANs, restringindo o acesso entre dispositivos.
+ - Menor colisão de pacotes: Como cada dispositivo recebe pacotes apenas quando necessário, há menor chance de colisões.
  - Escalabilidade: Permite fácil expansão da rede, adicionando novos dispositivos sem impactar significativamente o desempenho.
 
 Desvantagens:
- - Custo Maior: Comparado a hubs, switches são mais caros, especialmente os modelos gerenciáveis.
- - Configuração Complexa: Em redes grandes, a configuração de VLANs e protocolos de segurança pode exigir conhecimento técnico avançado.
- - Dependência de Energia: Como são dispositivos eletrônicos ativos, quedas de energia podem comprometer sua funcionalidade.
+ - Custo maior: Comparado a hubs, switches são mais caros, especialmente os modelos gerenciáveis.
+ - Configuração complexa: Em redes grandes, a configuração de VLANs e protocolos de segurança pode exigir conhecimento técnico avançado.
+ - Dependência de energia: Como são dispositivos eletrônicos ativos, quedas de energia podem comprometer sua funcionalidade.
 
 Os switches são a espinha dorsal das redes locais modernas, proporcionando comunicação eficiente, segura e escalável. 
 

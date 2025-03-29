@@ -12,7 +12,7 @@ Desta forma, é cada vez mais raro ver uma rede que ainda utiliza hub.
 
 ## Configuração da rede
 
-Neste caso, a rede é composta apenas por 4 computadores, ligados a um hub central via cabos cross-over.
+Neste caso, a rede é composta apenas por 4 computadores, ligados a um hub central via cabos straight-through.
 
 A rede é /24, e os computadores foram setados com os seguintes endereços:
 

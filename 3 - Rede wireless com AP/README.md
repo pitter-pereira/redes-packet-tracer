@@ -1,4 +1,4 @@
-# Rede 
+# Rede wireless com access point (AP)
 
 Um Access Point Wireless (AP), ou ponto de acesso sem fio, é um dispositivo de rede que permite a comunicação de dispositivos sem fio (como smartphones, laptops, tablets) com uma rede local (LAN) via Wi-Fi. 
 

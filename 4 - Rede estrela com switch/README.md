@@ -2,6 +2,9 @@
 
 Diferente dos hubs, que simplesmente retransmitem dados para todos os dispositivos da rede, os switches operam na Camada 2 (Enlace) do modelo OSI e utilizam endereços MAC (físico) para encaminhar os pacotes de forma inteligente, reduzindo colisões e otimizando o tráfego.
 
+![switch-live](https://github.com/user-attachments/assets/f16b1f12-68ce-444e-8b43-127f0bf53012)
+
+
 Características dos Switches:
 
  - Comutação Inteligente: Encaminha pacotes apenas para o dispositivo de destino, melhorando o desempenho da rede.
